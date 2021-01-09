@@ -1,0 +1,29 @@
+h1{
+    color:aquamarine;
+}
+*{
+    border:solid;
+    border:black;
+}
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: flex-start;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(94, 94, 245);
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #808080;
+}
